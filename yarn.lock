@@ -1657,9 +1657,10 @@
   resolved "https://registry.yarnpkg.com/@types/yargs/-/yargs-12.0.12.tgz#45dd1d0638e8c8f153e87d296907659296873916"
   integrity sha512-SOhuU4wNBxhhTHxYaiG5NY4HBhDIDnJF60GU+2LqHAdKKer86//e4yg69aENCtQ04n0ovz+tq2YPME5t5yp4pw==
 
-"@umpirsky/country-list@git://github.com/umpirsky/country-list.git#05fda51":
+"@umpirsky/country-list@git://github.com/umpirsky/country-list#05fda51":
   version "1.0.0"
-  resolved "git://github.com/umpirsky/country-list.git#05fda51cd97b3294e8175ffed06104c44b3c71d7"
+  uid "05fda51cd97b3294e8175ffed06104c44b3c71d7"
+  resolved "git://github.com/umpirsky/country-list#05fda51cd97b3294e8175ffed06104c44b3c71d7"
 
 "@umpirsky/country-list@https://github.com/umpirsky/country-list#05fda51":
   version "1.0.0"
@@ -11603,9 +11604,9 @@ tape@^4.4.0, tape@^4.6.3, tape@^4.8.0:
     through "~2.3.8"
 
 tar-fs@^1.13.0:
-  version "1.16.3"
-  resolved "https://registry.yarnpkg.com/tar-fs/-/tar-fs-1.16.3.tgz#966a628841da2c4010406a82167cbd5e0c72d509"
-  integrity sha512-NvCeXpYx7OsmOh8zIOP/ebG55zZmxLE0etfWRbWok+q2Qo8x/vOR/IJT1taADXPe+jsiu9axDb3X4B+iIgNlKw==
+  version "1.16.6"
+  resolved "https://registry.yarnpkg.com/tar-fs/-/tar-fs-1.16.6.tgz#b9be1854fe2c88af488a2edcc570be965e9750bd"
+  integrity sha512-JkOgFt3FxM/2v2CNpAVHqMW2QASjc/Hxo7IGfNd3MHaDYSW/sBFiS7YVmmhmr8x6vwN1VFQDQGdT2MWpmIuVKA==
   dependencies:
     chownr "^1.0.1"
     mkdirp "^0.5.1"
